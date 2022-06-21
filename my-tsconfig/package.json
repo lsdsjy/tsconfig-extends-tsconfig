@@ -1,0 +1,9 @@
+{
+    "name": "@my/tsconfig",
+    "version": "0.0.1",
+    "main": "tsconfig.json",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "@vue/tsconfig": "^0.1.3"
+    }
+}
